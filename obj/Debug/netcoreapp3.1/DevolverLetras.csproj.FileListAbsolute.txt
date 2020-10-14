@@ -1,0 +1,13 @@
+D:\20483C\EjerciciosClase\DevolverLetra\bin\Debug\netcoreapp3.1\DevolverLetras.exe
+D:\20483C\EjerciciosClase\DevolverLetra\bin\Debug\netcoreapp3.1\DevolverLetras.deps.json
+D:\20483C\EjerciciosClase\DevolverLetra\bin\Debug\netcoreapp3.1\DevolverLetras.runtimeconfig.json
+D:\20483C\EjerciciosClase\DevolverLetra\bin\Debug\netcoreapp3.1\DevolverLetras.runtimeconfig.dev.json
+D:\20483C\EjerciciosClase\DevolverLetra\bin\Debug\netcoreapp3.1\DevolverLetras.dll
+D:\20483C\EjerciciosClase\DevolverLetra\bin\Debug\netcoreapp3.1\DevolverLetras.pdb
+D:\20483C\EjerciciosClase\DevolverLetra\obj\Debug\netcoreapp3.1\DevolverLetras.csprojAssemblyReference.cache
+D:\20483C\EjerciciosClase\DevolverLetra\obj\Debug\netcoreapp3.1\DevolverLetras.AssemblyInfoInputs.cache
+D:\20483C\EjerciciosClase\DevolverLetra\obj\Debug\netcoreapp3.1\DevolverLetras.AssemblyInfo.cs
+D:\20483C\EjerciciosClase\DevolverLetra\obj\Debug\netcoreapp3.1\DevolverLetras.csproj.CoreCompileInputs.cache
+D:\20483C\EjerciciosClase\DevolverLetra\obj\Debug\netcoreapp3.1\DevolverLetras.dll
+D:\20483C\EjerciciosClase\DevolverLetra\obj\Debug\netcoreapp3.1\DevolverLetras.pdb
+D:\20483C\EjerciciosClase\DevolverLetra\obj\Debug\netcoreapp3.1\DevolverLetras.genruntimeconfig.cache
